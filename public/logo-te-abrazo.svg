@@ -1,0 +1,13 @@
+<svg width="920" height="520" viewBox="0 0 920 520" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="920" height="520" rx="42" fill="#FBF8F1"/>
+<circle cx="460" cy="74" r="38" fill="#FFD23F"/>
+<path d="M384 154C319 117 234 151 216 224C204 272 222 318 256 348C269 360 289 358 300 345C311 332 310 312 298 301C281 285 272 263 277 238C287 195 336 176 373 198C395 211 413 234 426 262L460 334L494 262C507 234 525 211 547 198C584 176 633 195 643 238C648 263 639 285 622 301C610 312 609 332 620 345C631 358 651 360 664 348C698 318 716 272 704 224C686 151 601 117 536 154C503 173 481 204 460 243C439 204 417 173 384 154Z" fill="url(#arms)"/>
+<path d="M460 315C446 291 406 272 406 237C406 215 423 197 443 197C455 197 464 203 470 212C476 203 485 197 497 197C517 197 534 215 534 237C534 272 494 291 480 315L470 334L460 315Z" fill="#D92828"/>
+<text x="460" y="402" text-anchor="middle" font-family="Avenir Next, Montserrat, Helvetica, Arial, sans-serif" font-size="54" font-weight="300" letter-spacing="16" fill="#244C45">TE ABRAZO</text>
+<text x="460" y="462" text-anchor="middle" font-family="Avenir Next, Montserrat, Helvetica, Arial, sans-serif" font-size="54" font-weight="300" letter-spacing="17" fill="#244C45">VENEZUELA</text>
+<rect x="355" y="488" width="76" height="5" rx="2.5" fill="#FFD23F"/>
+<path d="M460 484C455 477 442 471 442 460C442 452 448 446 455 446C459 446 463 448 465 451C467 448 471 446 475 446C482 446 488 452 488 460C488 471 475 477 470 484L465 492L460 484Z" fill="#D92828"/>
+<rect x="489" y="488" width="76" height="5" rx="2.5" fill="#FFD23F"/>
+<text x="460" y="512" text-anchor="middle" font-family="Avenir Next, Montserrat, Helvetica, Arial, sans-serif" font-size="16" font-weight="300" letter-spacing="6" fill="#244C45">RED DE AYUDA Y RECURSOS</text>
+<defs><linearGradient id="arms" x1="216" y1="230" x2="704" y2="230"><stop offset="0" stop-color="#004AAD"/><stop offset="0.5" stop-color="#004AAD"/><stop offset="0.5001" stop-color="#D92828"/><stop offset="1" stop-color="#D92828"/></linearGradient></defs>
+</svg>

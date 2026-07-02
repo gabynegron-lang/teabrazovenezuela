@@ -1,0 +1,228 @@
+{
+  "campaigns": [
+    {
+      "name": "Tu puedes devolverle una sonrisa",
+      "category": "Artículos de actividades",
+      "description": "Campaña para donar crayones, libros de colorear, morrales y artículos de actividades para niños y niñas afectados.",
+      "url": "",
+      "cta": "No disponible",
+      "details": [
+        "9831 NW 58 St Unit 151, Doral, FL",
+        "9851 NW 58 St Unit 104, Doral, FL"
+      ]
+    },
+    {
+      "name": "Un juguete puede devolver una sonrisa",
+      "category": "Juguetes",
+      "description": "Campaña para donar juguetes nuevos o en buen estado para niños y niñas afectados.",
+      "url": "",
+      "cta": "No disponible",
+      "details": [
+        "Centro de recepción de donaciones: 1900 NW 92nd Ave, Miami, FL"
+      ]
+    }
+  ],
+  "donations": [
+    {
+      "name": "Global Empowerment Mission (GEM)",
+      "category": "Ayuda humanitaria",
+      "description": "Centro logístico principal para clasificación y distribución de ayuda.",
+      "url": "https://www.globalempowermentmission.org/",
+      "cta": "Sitio web"
+    },
+    {
+      "name": "Lista Amazon - GEM",
+      "category": "Insumos directos",
+      "description": "Compra insumos directamente desde Amazon. Llegan a los almacenes de GEM.",
+      "url": "https://www.amazon.com/registries/gl/guest-view/26I482YVBQHJ8?ref_=cm_sw_r_cp_ud_ggr-subnav-share_ZS0HCBJHQ0PYZ2ST20V8_1",
+      "cta": "Ver lista Amazon"
+    },
+    {
+      "name": "World Central Kitchen",
+      "category": "Alimentos",
+      "description": "Apoyo alimentario en emergencias.",
+      "url": "https://wck.org/",
+      "cta": "Sitio web"
+    },
+    {
+      "name": "World Food Programme",
+      "category": "Alimentos",
+      "description": "Asistencia alimentaria humanitaria.",
+      "url": "https://www.wfp.org/",
+      "cta": "Sitio web"
+    },
+    {
+      "name": "Direct Relief",
+      "category": "Salud",
+      "description": "Insumos médicos y apoyo sanitario.",
+      "url": "https://www.directrelief.org/",
+      "cta": "Sitio web"
+    },
+    {
+      "name": "Project HOPE",
+      "category": "Salud",
+      "description": "Apoyo médico y respuesta humanitaria.",
+      "url": "https://www.projecthope.org/",
+      "cta": "Sitio web"
+    },
+    {
+      "name": "International Medical Corps",
+      "category": "Salud",
+      "description": "Respuesta médica humanitaria.",
+      "url": "https://internationalmedicalcorps.org/",
+      "cta": "Sitio web"
+    },
+    {
+      "name": "Plan International",
+      "category": "Niñez",
+      "description": "Protección y apoyo para niños, niñas y comunidades.",
+      "url": "https://plan-international.org/",
+      "cta": "Sitio web"
+    }
+  ],
+  "transportDonations": [
+    {
+      "name": "Quio Products",
+      "category": "Transporte marítimo",
+      "description": "Zelle para costos de envío marítimo de 4 contenedores con alimentos e insumos para bebé.",
+      "url": "mailto:Sales@quioproducts.com",
+      "cta": "Zelle: Sales@quioproducts.com"
+    },
+    {
+      "name": "W Aviation",
+      "category": "Jet Fuel",
+      "description": "Donaciones para Jet Fuel de vuelos privados que llevan carga humanitaria.",
+      "url": "https://www.gofundme.com/f/humanitarian",
+      "cta": "Contribuir al GoFundMe"
+    }
+  ],
+  "children": [
+    {
+      "name": "Hogares Bambi Venezuela",
+      "category": "Niños y adolescentes",
+      "description": "Protección, acogida, alimentación y desarrollo integral para niños y adolescentes.",
+      "url": "https://www.hogaresbambi.org/",
+      "cta": "Sitio web"
+    },
+    {
+      "name": "FUNDANA",
+      "category": "Niños y adolescentes",
+      "description": "Atención, protección y entorno seguro para niños en situación de riesgo.",
+      "url": "https://fundana.org/",
+      "cta": "Sitio web"
+    }
+  ],
+  "medical": [
+    {
+      "name": "VAMA",
+      "category": "Insumos médicos especializados",
+      "description": "Manejo adecuado de medicamentos especializados, equipos médicos e insumos hospitalarios.",
+      "url": "https://vamausa.org/",
+      "cta": "Sitio web"
+    }
+  ],
+  "venezuela": [
+    {
+      "name": "AcopioVZLA",
+      "category": "Centros de acopio",
+      "description": "Directorio de centros de acopio por ciudad.",
+      "url": "https://acopiovzla.com",
+      "cta": "Abrir"
+    },
+    {
+      "name": "VZLAyuda",
+      "category": "Solicitudes directas",
+      "description": "Solicitudes verificadas, hospitales, centros de acopio y contacto directo.",
+      "url": "https://vzlayuda.com",
+      "cta": "Abrir"
+    },
+    {
+      "name": "Terremoto Recursos",
+      "category": "Directorio",
+      "description": "Directorio colaborativo de recursos y plataformas.",
+      "url": "https://terremoto.netlify.app/recursos",
+      "cta": "Abrir"
+    },
+    {
+      "name": "Hazlo Hoy",
+      "category": "Mapa y recursos",
+      "description": "Mapa nacional y recursos de ayuda.",
+      "url": "https://hazlohoy.com",
+      "cta": "Abrir"
+    },
+    {
+      "name": "Venezuela Reporta",
+      "category": "Reportes ciudadanos",
+      "description": "Reportes ciudadanos y recursos de emergencia.",
+      "url": "",
+      "cta": "No disponible"
+    },
+    {
+      "name": "SOS Venezuela",
+      "category": "Emergencia",
+      "description": "Información y recursos de emergencia.",
+      "url": "",
+      "cta": "No disponible"
+    }
+  ],
+  "venezuelaLogistics": [
+    {
+      "name": "Wawa",
+      "category": "Logística y transporte",
+      "description": "Traslados gratuitos de insumos y personas dentro de Venezuela.",
+      "url": "https://ayuda.enwawa.com/",
+      "cta": "Solicitar o brindar apoyo"
+    }
+  ],
+  "psychological": [
+    {
+      "name": "Estoy Aquí",
+      "category": "Apoyo psicológico",
+      "description": "En construcción: red de psicólogos y terapeutas para acompañamiento emocional en esta primera fase.",
+      "url": "",
+      "cta": "No disponible"
+    }
+  ],
+  "dropOffCenters": [
+    {
+      "name": "Global Empowerment Mission HQ",
+      "county": "Miami-Dade",
+      "address": "1850 NW 84th Ave Suite 100, Doral, FL 33126",
+      "hours": "Lunes a viernes, 9:00 a.m. – 4:00 p.m.",
+      "phone": "+18009957604",
+      "url": "https://www.globalempowermentmission.org/"
+    },
+    {
+      "name": "El Arepazo Doral",
+      "county": "Miami-Dade",
+      "address": "10191 NW 58th St, Doral, FL 33178",
+      "hours": "24 horas",
+      "phone": "",
+      "url": ""
+    },
+    {
+      "name": "Carlow Park",
+      "county": "Miami-Dade",
+      "address": "10601 SW 5th St, Sweetwater, FL 33174",
+      "hours": "Todos los días, 8:00 a.m. – 6:00 p.m.",
+      "phone": "",
+      "url": ""
+    },
+    {
+      "name": "W Aviation FBO",
+      "county": "Broward",
+      "address": "2400 W Cypress Creek Rd, Fort Lauderdale, FL 33309",
+      "hours": "No disponible",
+      "phone": "",
+      "url": "https://www.gofundme.com/f/humanitarian"
+    },
+    {
+      "name": "Food For The Poor",
+      "county": "Broward",
+      "address": "6401 Lyons Rd, Coconut Creek, FL 33073",
+      "hours": "Lunes a viernes, 8:00 a.m. – 5:00 p.m.; sábado, 8:00 a.m. – 12:00 p.m.",
+      "phone": "",
+      "url": "https://foodforthepoor.org/"
+    }
+  ]
+}
